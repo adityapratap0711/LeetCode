@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityapratap0711/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/adityapratap0711/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -23,6 +24,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityapratap0711/LeetCode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/adityapratap0711/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -32,6 +34,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/adityapratap0711/LeetCode/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
@@ -46,4 +49,12 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityapratap0711/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityapratap0711/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/adityapratap0711/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
