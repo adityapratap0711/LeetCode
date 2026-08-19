@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adityapratap0711/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/adityapratap0711/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/adityapratap0711/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityapratap0711/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -33,6 +34,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/adityapratap0711/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
