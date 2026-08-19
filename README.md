@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/adityapratap0711/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/adityapratap0711/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
@@ -78,4 +79,12 @@
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adityapratap0711/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adityapratap0711/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
