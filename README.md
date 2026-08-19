@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/adityapratap0711/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/adityapratap0711/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/adityapratap0711/LeetCode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
 | ------- |
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/adityapratap0711/LeetCode/tree/master/0435-non-overlapping-intervals) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
