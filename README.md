@@ -11,6 +11,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/adityapratap0711/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/adityapratap0711/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0069-sqrtx](https://github.com/adityapratap0711/LeetCode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/adityapratap0711/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
