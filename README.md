@@ -33,6 +33,7 @@
 | [0088-merge-sorted-array](https://github.com/adityapratap0711/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/adityapratap0711/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0876-middle-of-the-linked-list](https://github.com/adityapratap0711/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,4 +90,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adityapratap0711/LeetCode/tree/master/0069-sqrtx) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/adityapratap0711/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
