@@ -27,6 +27,7 @@
 | ------- |
 | [0344-reverse-string](https://github.com/adityapratap0711/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityapratap0711/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/adityapratap0711/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/adityapratap0711/LeetCode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityapratap0711/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -41,6 +42,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/adityapratap0711/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/adityapratap0711/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/adityapratap0711/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/adityapratap0711/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
 |  |
@@ -119,4 +121,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adityapratap0711/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/adityapratap0711/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/adityapratap0711/LeetCode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/adityapratap0711/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
