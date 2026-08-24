@@ -62,6 +62,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityapratap0711/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityapratap0711/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -124,9 +125,14 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityapratap0711/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/adityapratap0711/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/adityapratap0711/LeetCode/tree/master/0844-backspace-string-compare) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/adityapratap0711/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
