@@ -10,6 +10,7 @@
 | [0088-merge-sorted-array](https://github.com/adityapratap0711/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/adityapratap0711/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0496-next-greater-element-i](https://github.com/adityapratap0711/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityapratap0711/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
@@ -21,6 +22,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/adityapratap0711/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/adityapratap0711/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/adityapratap0711/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/adityapratap0711/LeetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adityapratap0711/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/adityapratap0711/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/adityapratap0711/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -135,4 +138,8 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/adityapratap0711/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/adityapratap0711/LeetCode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
