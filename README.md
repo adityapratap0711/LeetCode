@@ -15,6 +15,7 @@
 | [0503-next-greater-element-ii](https://github.com/adityapratap0711/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/adityapratap0711/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/adityapratap0711/LeetCode/tree/master/0875-koko-eating-bananas) |
+| [1046-last-stone-weight](https://github.com/adityapratap0711/LeetCode/tree/master/1046-last-stone-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityapratap0711/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/adityapratap0711/LeetCode/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
