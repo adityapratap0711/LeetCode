@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/adityapratap0711/LeetCode/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/adityapratap0711/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/adityapratap0711/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/adityapratap0711/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityapratap0711/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/adityapratap0711/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/adityapratap0711/LeetCode/tree/master/0435-non-overlapping-intervals) |
@@ -174,6 +175,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/adityapratap0711/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/adityapratap0711/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/adityapratap0711/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/adityapratap0711/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -197,6 +199,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/adityapratap0711/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/adityapratap0711/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/adityapratap0711/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/adityapratap0711/LeetCode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -217,4 +220,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/adityapratap0711/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityapratap0711/LeetCode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adityapratap0711/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
